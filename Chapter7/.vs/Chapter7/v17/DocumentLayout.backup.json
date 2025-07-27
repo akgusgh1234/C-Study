@@ -42,8 +42,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -52,7 +56,7 @@
               "RelativeDocumentMoniker": "STruct.cs",
               "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter7\\STruct.cs",
               "RelativeToolTip": "STruct.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAIwCYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T12:45:22.807Z",
               "EditorCaption": ""
@@ -67,8 +71,7 @@
               "RelativeToolTip": "Overrid.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T12:27:59.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T12:27:59.769Z"
             },
             {
               "$type": "Document",
@@ -80,8 +83,7 @@
               "RelativeToolTip": "TypeCast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T12:06:31.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T12:06:31.819Z"
             },
             {
               "$type": "Document",
@@ -93,8 +95,7 @@
               "RelativeToolTip": "Thistest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:34:51.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T11:34:51.348Z"
             },
             {
               "$type": "Document",
@@ -106,8 +107,7 @@
               "RelativeToolTip": "Deepcopy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:23:07.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T11:23:07.904Z"
             },
             {
               "$type": "Document",
@@ -119,8 +119,7 @@
               "RelativeToolTip": "StaticFeild.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAkwCYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:16:24.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T11:16:24.04Z"
             },
             {
               "$type": "Document",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "Constructor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:01:51.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T11:01:51.999Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,15 @@
               "RelativeToolTip": "Base.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T10:51:10.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T10:51:10.712Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
