@@ -37,6 +37,7 @@ namespace Chapter7
             p3d3.z = 400;
             Console.WriteLine(p3d2.ToString());
             Console.WriteLine(p3d3.ToString());
+            //야호
         }
     }
 }
