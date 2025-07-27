@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\clasandfun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{193661C6-DA0A-444B-941B-28A0B69E3FD8}|clasandfun.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\clasandfun\\exer3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193661C6-DA0A-444B-941B-28A0B69E3FD8}|clasandfun.csproj|solutionrelative:exer3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exer3.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\clasandfun\\Exer3.cs",
+              "RelativeDocumentMoniker": "Exer3.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\clasandfun\\Exer3.cs",
+              "RelativeToolTip": "Exer3.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:36:09.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

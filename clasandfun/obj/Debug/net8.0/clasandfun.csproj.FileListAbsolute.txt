@@ -1,0 +1,14 @@
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\clasandfun\bin\Debug\net8.0\clasandfun.exe
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\clasandfun\bin\Debug\net8.0\clasandfun.deps.json
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\clasandfun\bin\Debug\net8.0\clasandfun.runtimeconfig.json
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\clasandfun\bin\Debug\net8.0\clasandfun.dll
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\clasandfun\bin\Debug\net8.0\clasandfun.pdb
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\clasandfun\obj\Debug\net8.0\clasandfun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\clasandfun\obj\Debug\net8.0\clasandfun.AssemblyInfoInputs.cache
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\clasandfun\obj\Debug\net8.0\clasandfun.AssemblyInfo.cs
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\clasandfun\obj\Debug\net8.0\clasandfun.csproj.CoreCompileInputs.cache
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\clasandfun\obj\Debug\net8.0\clasandfun.dll
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\clasandfun\obj\Debug\net8.0\refint\clasandfun.dll
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\clasandfun\obj\Debug\net8.0\clasandfun.pdb
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\clasandfun\obj\Debug\net8.0\clasandfun.genruntimeconfig.cache
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\clasandfun\obj\Debug\net8.0\ref\clasandfun.dll

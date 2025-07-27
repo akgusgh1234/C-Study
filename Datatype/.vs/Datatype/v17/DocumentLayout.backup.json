@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Datatype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC30D66-2FB5-4764-BDC2-8F4FAED4EBCC}|ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00).csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\datatype\\consoleapp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC30D66-2FB5-4764-BDC2-8F4FAED4EBCC}|ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00).csproj|solutionrelative:consoleapp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC30D66-2FB5-4764-BDC2-8F4FAED4EBCC}|ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00).csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\datatype\\consoleapp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\vartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC30D66-2FB5-4764-BDC2-8F4FAED4EBCC}|ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00).csproj|solutionrelative:consoleapp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\vartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Datatype\\ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\Exercise.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\Exercise.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Datatype\\ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\Exercise.cs*",
+              "RelativeToolTip": "ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\Exercise.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:43:08.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vartype.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Datatype\\ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\Vartype.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\Vartype.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Datatype\\ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\Vartype.cs",
+              "RelativeToolTip": "ConsoleApp2(\uB370\uC774\uD130 \uBCF4\uAD00)\\Vartype.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:31:48.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

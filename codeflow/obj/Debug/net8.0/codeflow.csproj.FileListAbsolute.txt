@@ -1,0 +1,14 @@
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\codeflow\bin\Debug\net8.0\codeflow.exe
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\codeflow\bin\Debug\net8.0\codeflow.deps.json
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\codeflow\bin\Debug\net8.0\codeflow.runtimeconfig.json
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\codeflow\bin\Debug\net8.0\codeflow.dll
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\codeflow\bin\Debug\net8.0\codeflow.pdb
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\codeflow\obj\Debug\net8.0\codeflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\codeflow\obj\Debug\net8.0\codeflow.AssemblyInfoInputs.cache
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\codeflow\obj\Debug\net8.0\codeflow.AssemblyInfo.cs
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\codeflow\obj\Debug\net8.0\codeflow.csproj.CoreCompileInputs.cache
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\codeflow\obj\Debug\net8.0\codeflow.dll
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\codeflow\obj\Debug\net8.0\refint\codeflow.dll
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\codeflow\obj\Debug\net8.0\codeflow.pdb
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\codeflow\obj\Debug\net8.0\codeflow.genruntimeconfig.cache
+C:\Users\akgus\OneDrive\바탕 화면\KNU\C#공부\codeflow\obj\Debug\net8.0\ref\codeflow.dll
