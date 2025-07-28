@@ -1,0 +1,15 @@
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\bin\Debug\net8.0\Chapter8.exe
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\bin\Debug\net8.0\Chapter8.deps.json
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\bin\Debug\net8.0\Chapter8.runtimeconfig.json
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\bin\Debug\net8.0\Chapter8.dll
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\bin\Debug\net8.0\Chapter8.pdb
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\obj\Debug\net8.0\Chapter8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\obj\Debug\net8.0\Chapter8.AssemblyInfoInputs.cache
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\obj\Debug\net8.0\Chapter8.AssemblyInfo.cs
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\obj\Debug\net8.0\Chapter8.csproj.CoreCompileInputs.cache
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\obj\Debug\net8.0\Chapter8.sourcelink.json
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\obj\Debug\net8.0\Chapter8.dll
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\obj\Debug\net8.0\refint\Chapter8.dll
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\obj\Debug\net8.0\Chapter8.pdb
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\obj\Debug\net8.0\Chapter8.genruntimeconfig.cache
+C:\Users\akgus\OneDrive\바탕 화면\C#\Chapter8\obj\Debug\net8.0\ref\Chapter8.dll
