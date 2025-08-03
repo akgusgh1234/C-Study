@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter9\\ex9_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|solutionrelative:ex9_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter9\\annoymoustype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|solutionrelative:annoymoustype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter9\\ex9_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|solutionrelative:ex9_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter9\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|solutionrelative:record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter9\\initonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|solutionrelative:initonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter9\\requiredproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|solutionrelative:requiredproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter9\\autoimplementedproperth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|solutionrelative:autoimplementedproperth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter9\\propertybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|solutionrelative:propertybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter9\\constructorwithproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0E7242-E530-46A5-8A74-31C5A428E6FE}|Chapter9.csproj|solutionrelative:constructorwithproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +59,123 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex9_2.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\Ex9_2.cs",
+              "RelativeDocumentMoniker": "Ex9_2.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\Ex9_2.cs",
+              "RelativeToolTip": "Ex9_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:08:30.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex9_1.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\Ex9_1.cs",
+              "RelativeDocumentMoniker": "Ex9_1.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\Ex9_1.cs",
+              "RelativeToolTip": "Ex9_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:59:58.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnnoymousType.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\AnnoymousType.cs",
+              "RelativeDocumentMoniker": "AnnoymousType.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\AnnoymousType.cs",
+              "RelativeToolTip": "AnnoymousType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:50:53.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Record.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\Record.cs",
+              "RelativeDocumentMoniker": "Record.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\Record.cs",
+              "RelativeToolTip": "Record.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:42:04.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PropertyBase.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\PropertyBase.cs",
+              "RelativeDocumentMoniker": "PropertyBase.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\PropertyBase.cs",
+              "RelativeToolTip": "PropertyBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:35:02.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequiredProperty.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\RequiredProperty.cs",
+              "RelativeDocumentMoniker": "RequiredProperty.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\RequiredProperty.cs",
+              "RelativeToolTip": "RequiredProperty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:35:01.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InitOnly.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\InitOnly.cs",
+              "RelativeDocumentMoniker": "InitOnly.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\InitOnly.cs",
+              "RelativeToolTip": "InitOnly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:24:05.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoImplementedProperth.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\AutoImplementedProperth.cs",
+              "RelativeDocumentMoniker": "AutoImplementedProperth.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\AutoImplementedProperth.cs",
+              "RelativeToolTip": "AutoImplementedProperth.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:16:58.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConstructorWithProperty.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\ConstructorWithProperty.cs",
+              "RelativeDocumentMoniker": "ConstructorWithProperty.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter9\\ConstructorWithProperty.cs",
+              "RelativeToolTip": "ConstructorWithProperty.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:16:21.358Z",
+              "EditorCaption": ""
             }
           ]
         }
