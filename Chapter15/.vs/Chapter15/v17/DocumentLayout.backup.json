@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter15\\ex_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|solutionrelative:ex_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter15\\ex_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|solutionrelative:ex_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter15\\minmaxavg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|solutionrelative:minmaxavg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter15\\join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|solutionrelative:join.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter15\\groupby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|solutionrelative:groupby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter15\\simplelinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|solutionrelative:simplelinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter15\\fromfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|solutionrelative:fromfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|c:\\users\\akgus\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\knu\\c#\uACF5\uBD80\\chapter15\\from.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D7EBEC-2BFD-4A42-B408-91035944ABF8}|Chapter15.csproj|solutionrelative:from.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex_02.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\Ex_02.cs",
+              "RelativeDocumentMoniker": "Ex_02.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\Ex_02.cs",
+              "RelativeToolTip": "Ex_02.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T16:35:05.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex_01.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\Ex_01.cs",
+              "RelativeDocumentMoniker": "Ex_01.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\Ex_01.cs",
+              "RelativeToolTip": "Ex_01.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T16:30:08.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MinMaxAvg.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\MinMaxAvg.cs",
+              "RelativeDocumentMoniker": "MinMaxAvg.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\MinMaxAvg.cs",
+              "RelativeToolTip": "MinMaxAvg.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T16:23:07.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Join.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\Join.cs",
+              "RelativeDocumentMoniker": "Join.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\Join.cs",
+              "RelativeToolTip": "Join.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vxwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:56:20.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupBy.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\GroupBy.cs",
+              "RelativeDocumentMoniker": "GroupBy.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\GroupBy.cs",
+              "RelativeToolTip": "GroupBy.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:48:37.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FromFrom.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\FromFrom.cs",
+              "RelativeDocumentMoniker": "FromFrom.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\FromFrom.cs",
+              "RelativeToolTip": "FromFrom.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:38:47.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimpleLinq.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\SimpleLinq.cs",
+              "RelativeDocumentMoniker": "SimpleLinq.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\SimpleLinq.cs",
+              "RelativeToolTip": "SimpleLinq.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T15:23:54.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "From.cs",
+              "DocumentMoniker": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\From.cs",
+              "RelativeDocumentMoniker": "From.cs",
+              "ToolTip": "C:\\Users\\akgus\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\C#\uACF5\uBD80\\Chapter15\\From.cs",
+              "RelativeToolTip": "From.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T14:22:29.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
